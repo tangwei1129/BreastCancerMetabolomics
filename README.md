@@ -2,7 +2,7 @@
 Liver- and Microbiome-derived Bile Acids Accumulate in Human Breast Tumors and Inhibit Growth and Improve Patient Survival
 Wei Tang 1, Vasanta Putluri 2, Chandrashekar R Ambati 2, Tiffany H Dorsey 1, Nagireddy Putluri 3, Stefan Ambs 4
 
-PMID: 31296531 ![alt tag](https://pubmed.ncbi.nlm.nih.gov/31296531/) PMCID: PMC6774910 DOI: 10.1158/1078-0432.CCR-19-0094
+ ![PMID: 31296531](https://pubmed.ncbi.nlm.nih.gov/31296531/) PMCID: PMC6774910 DOI: 10.1158/1078-0432.CCR-19-0094
 
 Abstract
 Purpose: Metabolomics is a discovery tool for novel associations of metabolites with disease. Here, we interrogated the metabolome of human breast tumors to describe metabolites whose accumulation affects tumor biology.
